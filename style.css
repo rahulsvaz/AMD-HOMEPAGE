@@ -1,0 +1,732 @@
+*
+{
+    margin: 0;
+
+}
+header
+
+{
+display: flex;
+height: 91px;
+background-color: black;
+
+}
+.logo img
+{
+    width: 150px;
+    height: 24px;
+    margin-left: 49px;
+    margin-top: 33px;
+}
+.products
+{   cursor: pointer;
+    color: white;
+    font-family: Noto sans, sans-serif;
+    margin-top: 35px;
+    margin-left: 37px;
+    font-size: 16px;
+}
+
+.solutions
+
+{
+    cursor: pointer;
+    color: white;
+    font-family: Noto sans, sans-serif;
+    margin-top: 35px;
+    margin-left: 59px;
+    font-size: 16px;
+}
+.downloads
+{
+    cursor: pointer;
+    color: white;
+    font-family: Noto sans, sans-serif;
+    margin-top: 35px;
+    margin-left: 59px;
+    font-size: 16px;
+    margin-right: 30px;
+}
+.shop
+{
+    cursor: pointer;
+    color: white;
+    font-family: Noto sans, sans-serif;
+    margin-top: 35px;
+    margin-left: 46px;
+    font-size: 16px;
+    margin-right: 105px;
+}
+.globe
+{  
+    cursor: pointer;
+    color: white;
+    margin-left: 660px;
+    margin-top: 36px;
+}
+.search
+{
+    cursor: pointer;
+    color: white;
+    margin-top: 36px;
+    margin-left: 40px;
+    
+   
+}
+.search:hover
+{
+    width: 30px;
+    height: 30px;
+    background-color: rgba(124, 122, 121,1);
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color:  rgba(124, 122, 121,1);
+}
+.background
+{
+    background-image: url( images/amd.jpg);
+    width: 100%;
+    height: 413px;
+    background-position:center;
+
+}
+.c1text1
+{
+    margin-top: -361px;
+    color: aliceblue;
+    font-size: 35px;
+    margin-left: 70px;
+    margin-right: 924px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.c1text2
+{
+    margin-top:3px;
+    color: aliceblue;
+    font-size: 19px;
+    margin-left: 70px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+.c1img img
+{
+
+
+    margin-left: 71px;
+    margin-top: 13px;
+    width: 140px;
+    height: 84px;
+
+}
+.find-retailers
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 62px;
+    background-color: transparent;
+    border-color: white;
+    color: aliceblue;
+    font-size: 17px;
+
+}
+.find-retailers:hover
+{
+    background-color: rgb(129, 135, 140);
+    border-color: black;
+
+}
+.learn-more
+{    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 6px;
+    background-color: transparent;
+    border-color: white;
+    color: aliceblue;
+    font-size: 17px;
+}
+.learn-more:hover
+{
+    background-color: rgb(129, 135, 140);
+    border-color: black;
+}
+.c1img2 img
+{
+    margin-top: -352PX;
+    margin-left: 854px;
+    width: 747PX;
+    height: 342PX;
+
+}
+.container2
+{
+    display: flex;
+}
+
+.c2img1 img
+{
+    margin-left: 20px;
+    margin-top: 70px;
+    width: 548px;
+    height: 275px;
+}
+.c2img2 img
+{
+    margin-left: -22px;
+    margin-top: 71px;
+    width: 590px;
+    height: 286px;
+}
+
+.c2img3 img
+{
+    margin-left: -27px;
+    margin-top: 66px;
+    width: 501px;
+    height: 309px;
+}
+.text3-1
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    margin-left: 41px;
+    margin-top: -18px;
+    color: black;
+}
+.text3-2
+{
+ 
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    margin-left: 625px;
+    margin-top: -42px;
+    color: black;
+}
+.text3-3
+{
+ 
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    margin-left: 1128px;
+    margin-top: -42px;
+    color: black;
+}
+.container4
+{
+    display: flex;
+}
+.text3-1-1
+{
+    cursor: pointer;
+margin-top: 20px;
+margin-left: 41px;
+font-size: 15px;
+color: rgb(45, 10, 223);
+}
+.text3-1-1:hover
+{
+    color: grey;
+}
+.text3-1-2
+{
+margin-top: 20px;
+margin-left: 292px;
+font-size: 15px;  
+color: rgb(48, 12, 230);
+}
+.text3-1-3
+{
+    cursor: pointer;
+  margin-top: 20px;
+margin-left: 203px;
+font-size: 15px;
+color: rgb(14, 37, 239);  
+}
+.text3-1-3:hover
+{
+    color: grey;
+}
+.find-retailers2
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 62px;
+    background-color: transparent;
+    border-color: rgb(7, 7, 7);
+    color: rgb(4, 4, 4);
+    font-size: 17px;
+}
+.find-retailers2:hover
+{
+    background-color: black;
+    color: white;
+}
+.learnmore2
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 356px;
+    background-color: transparent;
+    border-color: rgb(7, 7, 7);
+    color: rgb(4, 4, 4);
+    font-size: 17px;
+}
+.learnmore2:hover
+{
+    background-color: black;
+    color: white;
+}
+.find-retailers3
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 307px;
+    background-color: transparent;
+    border-color: rgb(7, 7, 7);
+    color: rgb(4, 4, 4);
+    font-size: 17px;
+}
+.find-retailers3:hover
+{
+    background-color: black;
+    color: white;
+}
+.container6 img
+{   position: relative;
+    margin-top: 50px;
+    width: 100%;
+    height: 365px;
+}
+.boxc5
+{   position: absolute;
+    border: 1px solid grey;
+    width: 750px;
+    height: 260px;
+    background-color: rgba(40, 37, 33,0.8);
+    margin-top: -314px;
+    margin-left: 848px;
+    padding-left: 25px;
+}
+
+.btext
+{
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 50px;
+    width: 10px;
+}
+.btext2
+{
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-left: -50px;
+    margin-right: 50px;
+    width: 10px;
+}
+.learnmore4
+{   position: absolute;
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 75px;
+    margin-left: -340px;
+    background-color: transparent;
+    border-color: rgb(246, 244, 244);
+    color: rgb(243, 240, 240);
+    font-size: 17px;
+}
+.learnmore4:hover
+{
+background-color: rgba(124, 122, 121,0.7);
+border-color: transparent;
+}
+.container7
+{
+    display: flex;
+    
+}
+.img7-1 img
+{
+    width: 755px;
+    height: 232px;
+    margin-top: 10px;
+    margin-left: 62px;
+}
+
+.img7-2 img
+{
+
+    width: 755px;
+    height: 232px;
+    margin-top: 10px;
+    margin-left: 34px;
+}
+.container8
+{
+    display: flex;
+}
+.c8t1
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left :60px;
+    margin-top: 10px;
+}
+.c8t2
+{
+
+    font-family: 'Oswald', sans-serif;
+    margin-left :291px;
+    margin-top: 10px;
+}
+.c9t1
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left :60px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-family: 'Oswald', sans-serif; ;
+    font-size: 19px;
+}
+.container9
+{
+    display: flex;
+}
+.c9t2
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left :40px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-family: 'Oswald', sans-serif; ;
+    font-size: 19px;
+}
+.container10
+
+{
+    display: flex;
+}
+
+.btn10
+
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 60px;
+    background-color: transparent;
+    border-color: rgb(7, 7, 7);
+    color: rgb(4, 4, 4);
+    font-size: 17px;
+}
+.btn10:hover
+{
+    background-color: black;
+    color: white;
+}
+.btn10-1{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 600px;
+    background-color: transparent;
+    border-color: rgb(7, 7, 7);
+    color: rgb(4, 4, 4);
+    font-size: 17px;
+}
+.btn10-1:hover
+{
+    background-color: black;
+    color: white;
+}
+.container11
+{   
+  display:flex;
+
+    background-image: url( images/background-1920x600.webp);
+    
+    width: 100%;
+    height: 549px;
+    margin-top: 50px;
+    background-position: center;
+    background-size: cover;
+
+}
+.img11-1 img
+
+{
+    width: 498px;
+    height: 274px;
+    margin-top: 50px;
+    margin-left: 64px;
+    margin-right: -30px;
+}
+.img11-2 img
+
+{
+   
+    width: 486px;
+    height: 274px;
+    margin-top: 50px;
+    margin-left: 55px;
+}
+
+.img11-3 img
+
+{
+    width: 485px;
+    height: 273px;
+    margin-top: 50px;
+    margin-left: 32px;
+}
+
+.container12
+{
+    display: flex;
+}
+.c12t1
+
+{
+
+    font-family: 'Oswald', sans-serif;
+    margin-left: 67px;
+    margin-top: -202px;
+    color: rgb(247, 243, 243);
+
+}
+.c12t2
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left: 217px;
+    margin-top: -202px;
+    color: rgb(247, 243, 243);
+}
+.c12t3
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left: 249px;
+    margin-top: -202px;
+    color: rgb(247, 243, 243);
+
+}
+.c13t1
+{
+    margin-top: -141px;
+    margin-left: 70px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+.c13t2
+{
+    margin-top: -24px;
+    margin-left: 598px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+.c13t3
+{
+    margin-top: -19px;
+    margin-left: 1110px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+.btn14
+
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 35px;
+    margin-left: 69px;
+    background-color: transparent;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+.btn14:hover
+{
+    background-color:  rgba(194, 191, 191 ,0.5);
+    color:white;
+    border-color: transparent;
+}
+.btn14-1
+
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 35px;
+    margin-left: 325px;
+    background-color: transparent;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+.btn14-1:hover
+{
+    background-color:  rgba(194, 191, 191 ,0.5);
+    color:white;
+    border-color: transparent;
+}
+.btn14-2
+
+{
+    font-family: 'Oswald', sans-serif;
+    width: 194px;
+    height: 48px;
+    margin-top: 35px;
+    margin-left: 325px;
+    background-color: transparent;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+.btn14-2:hover
+{
+    background-color:  rgba(194, 191, 191 ,0.5);
+    color:white;
+    border-color: transparent;
+}
+
+.container15
+{  position: relative;
+     margin-top: 20px ;
+    width: 100%;
+    background-color: rgb(252, 251, 251);
+    height: 60px;
+    
+}
+.c15t1
+{  
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 14PX;
+    color: rgb(0, 0, 0);
+    margin-left: 269PX;
+    margin-top: 15PX;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.c15t1:hover{
+    color: grey;
+}
+footer
+{
+  
+    background-color: rgb(0, 0, 0); 
+    width: 100%;
+    height: 576px;
+    margin-bottom: -34px;
+    
+}
+.ftop
+{
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+
+.ft1
+{   
+    cursor: pointer;
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 119px;
+    color: aliceblue;
+    width: 50%;
+
+}
+.ft1:hover{
+    text-decoration: underline;
+}
+.fb{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    margin-left: 1095px;
+    margin-top: 48px;
+}
+    
+
+.fb img
+{
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+li{
+    cursor: pointer;
+    color: rgb(82, 83, 84);
+    line-height: 40px;
+    list-style: none;
+    cursor: pointer;
+    transition: 0.15s;
+    
+}
+li:hover
+{
+    text-decoration:underline ;
+}
+.list{
+    display: flex;
+}
+.list1{
+
+    margin-left: 189px;
+    margin-top: 40px;
+}
+.list2{
+
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.list3{
+
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.list4{
+
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.list5{
+
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.footer-line
+{
+    color: rgb(82, 83, 84);
+    margin-left: 277px;
+    font-size: 15px;
+    margin-top: 100px;
+}
+.final
+{
+    color: rgb(82, 83, 84);
+    margin-left: 664px;
+    font-size: 15px;
+    margin-top: 15px;
+}
